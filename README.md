@@ -41,5 +41,8 @@ Kremer, K. et al. “InCorr: Interactive Data-Driven Correlation Panels for Digi
 Marshak, S. & Mitra, G. Basic Methods of Structural Geology — standard reference for true vs. apparent thickness calculation from strike lines and dip. https://www.geo.utexas.edu/courses/420k/PDF_files/LABS/gm2lab.pdf
 McCafferty, A.E., San Juan, C.A., Lawley, C.J.M., Graham, G.E., Gadd, M.G., Huston, D.L., Kelley, K.D., Paradis, S., Peter, J.M., and Czarnota, K., 2023, National-scale geophysical, geologic, and mineral resource data and grids for the United States, Canada, and Australia: Data in support of the tri-national Critical Minerals Mapping Initiative (ver 1.1, March 2025): U.S. Geological Survey data release, https://doi.org/10.5066/P970GDD5.
 Open Educational Alberta. Overview of Geological Structures Part 1: Strike, Dip, and Structural Cross-Sections — worked example of apparent vs. true bed thickness. https://www.saskoer.ca/geolmanual/chapter/overview-of-strike-dip-and-structural-cross-sections/
+
 <img width="468" height="634" alt="image" src="https://github.com/user-attachments/assets/24465255-d1f6-4e86-a86c-72b9643894bb" />
+
+<img width="139" height="612" alt="image" src="https://github.com/user-attachments/assets/d214c1ed-82dc-48e9-afc7-92cdb6ca2ddb" />
 
