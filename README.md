@@ -29,7 +29,9 @@ This value is deliberately and consistently labeled “apparent thickness” thr
 4. Known Limitations and Data-Quality Notes
 
 4.1	Apparent thickness is not corrected for structural dip (see Section 5) — it is a schematic, relative value, not a measured or true stratigraphic thickness.
+
 4.2	DEM-relief-based thickness assumes the full vertical extent of a unit is exposed within its mapped footprint; units truncated by cover, faulting, or incomplete exposure will read as thinner than they actually are.
+
 4.3	Elevation-based unit ordering (used only when no order or age field is available) is a weak fallback and should be checked against known geology.
 
 5. Assessment Against Geologic Community Standards
