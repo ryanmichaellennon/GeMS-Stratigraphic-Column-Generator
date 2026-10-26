@@ -54,15 +54,23 @@ Given that standard, unambiguous distinction, the elevation-relief method used h
 6. Recommendations if Greater Rigor Is Needed
 
 6.1.	Incorporate bedding attitude (strike/dip) where available — e.g., from a GeMS OrientationPoints table — and apply a standard dip correction (true thickness = apparent thickness × cos(dip), for the simple vertical-relief case, or the fuller outcrop-width formula where appropriate) rather than reporting raw elevation relief.
+
 6.2.	Where dip data is unavailable across an entire unit, consider automated orientation-extraction methods now used in the GIS literature (moving-window best-fit-plane algorithms applied to digitized contact traces) rather than a uniform assumed dip.
+
 6.3.	For any unit or area where the column will inform a decision (rather than serve as an overview graphic), replace the DEM-derived value with a real measured section, borehole log, or a cross-section constructed perpendicular to strike.
 
 References
+
 FGDC. Digital Cartographic Standard for Geologic Map Symbolization (FGDC-STD-013-2006) — basis for the period-color and lithology-symbolization conventions used in Section 3.1. https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/
+
 Fossen, H. Structural Geology (Cambridge) — “Thickness and depth” chapter, formal definitions of thickness, apparent thickness, and outcrop width. https://www.cambridge.org/core/books/abs/structural-geology/thickness-and-depth/EF5931D071BCCAA367F3BD98455B3DCD
+
 Kremer, K. et al. “InCorr: Interactive Data-Driven Correlation Panels for Digital Outcrop Analysis” — explicitly discusses the elevation-difference simplification for thickness and its limits. https://arxiv.org/pdf/2007.11512
+
 Marshak, S. & Mitra, G. Basic Methods of Structural Geology — standard reference for true vs. apparent thickness calculation from strike lines and dip. https://www.geo.utexas.edu/courses/420k/PDF_files/LABS/gm2lab.pdf
+
 McCafferty, A.E., San Juan, C.A., Lawley, C.J.M., Graham, G.E., Gadd, M.G., Huston, D.L., Kelley, K.D., Paradis, S., Peter, J.M., and Czarnota, K., 2023, National-scale geophysical, geologic, and mineral resource data and grids for the United States, Canada, and Australia: Data in support of the tri-national Critical Minerals Mapping Initiative (ver 1.1, March 2025): U.S. Geological Survey data release, https://doi.org/10.5066/P970GDD5.
+
 Open Educational Alberta. Overview of Geological Structures Part 1: Strike, Dip, and Structural Cross-Sections — worked example of apparent vs. true bed thickness. https://www.saskoer.ca/geolmanual/chapter/overview-of-strike-dip-and-structural-cross-sections/
 
 <img width="468" height="634" alt="image" src="https://github.com/user-attachments/assets/24465255-d1f6-4e86-a86c-72b9643894bb" />
