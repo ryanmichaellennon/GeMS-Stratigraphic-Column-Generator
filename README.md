@@ -42,9 +42,13 @@ Structural geology and stratigraphy have a long-standing, well-established, and 
 This terminology is consistent across structural geology textbooks and course materials (e.g., Marshak & Mitra's Basic Methods of Structural Geology; university structural geology lab manuals), petroleum and wellbore-geosteering literature (which relies on the same true/apparent distinction for true stratigraphic thickness, or TST), and recent digital-outcrop and GIS-automation research.
 
 Given that standard, unambiguous distinction, the elevation-relief method used here is best characterized as follows:
+
 •	The terminology is accurate: labeling the output “apparent thickness” and explicitly disclaiming it as a substitute for a measured section or cross-section is the correct and expected framing under standard usage. A geologist reviewing the scripts or figures on those terms would find the labeling appropriate and not misleading.
+
 •	The method itself is a simplification recognized in the literature (e.g., in digital outcrop correlation tools) as valid only for flat-lying strata measured on a vertical exposure face; it does not perform the dip correction (true thickness = apparent thickness × a trigonometric function of dip, or equivalent outcrop-width-and-dip formulas) that is standard practice for reporting true stratigraphic thickness from map data.
+
 •	It would not be considered accurate or acceptable by the geologist community if presented as true stratigraphic thickness, in areas of significant structural dip, folding, or faulting, or as a substitute for a measured section, drill core, or a properly constructed cross-section perpendicular to strike.
+
 •	It is a defensible schematic/relative visualization — useful for showing stratigraphic order, approximate relative unit thickness, and general lithology/age at a glance — provided it continues to be clearly labeled as apparent/schematic and not represented as a measured or true-thickness stratigraphic column, which is exactly how the underlying scripts already document it.
 
 6. Recommendations if Greater Rigor Is Needed
